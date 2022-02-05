@@ -11,4 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r math}
 print(5+5)
+print(10+10)
 ```
