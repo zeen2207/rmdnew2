@@ -15,7 +15,7 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r cars}
 summary(cars)
-print(cars)
+print("cars")
 ```
 ## creating cars plot
 
@@ -24,6 +24,7 @@ You can also embed plots, for example:
 ```{r pressure, echo=FALSE}
 plot(pressure)
 print("this is setting up the cars")
+print(2+2)
 ```
 
 
