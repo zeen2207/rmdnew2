@@ -17,13 +17,13 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 print(cars)
 ```
-
-## Including Plots
+## creating cars plot
 
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
+print("this is setting up the cars")
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
