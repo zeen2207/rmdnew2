@@ -1,0 +1,14 @@
+---
+title: "cars"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## including mathematical operations
+
+```{r math}
+print(5+5)
+```
